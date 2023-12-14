@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.edb3b33b.css",
+    "main.js": "/static/js/main.1822322d.js",
+    "static/media/ocean-bg.jpg": "/static/media/ocean-bg.3d365a268df5267583e6.jpg",
+    "static/media/logo.png": "/static/media/logo.509064d174ce3c8a0971.png",
+    "index.html": "/index.html",
+    "main.edb3b33b.css.map": "/static/css/main.edb3b33b.css.map",
+    "main.1822322d.js.map": "/static/js/main.1822322d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edb3b33b.css",
+    "static/js/main.1822322d.js"
+  ]
+}
